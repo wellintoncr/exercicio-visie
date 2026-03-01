@@ -28,7 +28,8 @@ python main.py
 
 ## Execução
 
-Caso queira ver a aplicação rodando, veja [o vídeo com um teste](./sample.webm).
+Caso queira ver a aplicação rodando, veja [o vídeo com um teste](https://github.com/user-attachments/assets/65bb417b-fd35-44de-9d42-1fd47f508f0a).
+
 
 ## Estrutura
 
