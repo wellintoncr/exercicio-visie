@@ -29,3 +29,7 @@ python main.py
 ## Execução
 
 Caso queira ver a aplicação rodando, veja [o vídeo com um teste](./sample.webm).
+
+## Estrutura
+
+A pasta `project/.hidden-folder` simula umm diretório que deve ser ignorado. Dessa forma, quando for pedido ao agente para listar os arquivos de uma pasta, `.hidden-folder` não deve aparecer.
